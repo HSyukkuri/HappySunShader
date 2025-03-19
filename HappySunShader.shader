@@ -1,4 +1,4 @@
-Shader "Unlit/HappyToonShader_v20240304"
+Shader "Unlit/HappyToonShader_v20250319"
 {
     Properties
     {
